@@ -66,5 +66,5 @@ To transition from Software Engineering and QA into **Artificial Intelligence re
 
 ---
 
-📫 **Contact**: maihuynhtrung0@gmail.com
+📫 **Contact**: maihuynhtrung0@gmail.com        
 🌐 **GitHub**: https://github.com/HuynhTrung-FS
