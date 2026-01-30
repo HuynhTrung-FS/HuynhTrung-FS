@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi 👋 I'm Trung Huỳnh
 
-<!--
-**HuynhTrung-FS/HuynhTrung-FS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Bachelor of Software Engineering  
+🤖 Aspiring Master's student in Artificial Intelligence (NLP)  
 
-Here are some ideas to get you started:
+### About Me
+- Background in Software Engineering with experience in web development and automation testing  
+- Strong interest in Artificial Intelligence, Natural Language Processing, and data-driven systems  
+- Familiar with Python, Ruby on Rails, and automation testing frameworks  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- Programming: Python, Java, Ruby, JavaScript  
+- Frameworks: Ruby on Rails, Karate  
+- Databases: PostgreSQL  
+- Tools: Git, GitHub/GitLab, Jenkins, Jira  
+
+### Projects
+- Online Career Course Management System  
+- Rental House Management Website  
+- Automation Testing for Banking & Desktop Applications  
+
+📫 **Contact:** maihuyntrung0@gmail.com
+
