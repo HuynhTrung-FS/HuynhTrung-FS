@@ -1,7 +1,7 @@
 ## Hi 👋 I'm Trung Huỳnh
 
 🎓 Bachelor of Information Technology  
-🧪 Tester / QA Engineer  
+🧪 Software Engineer  
 🤖 Aspiring Master's student in Artificial Intelligence (NLP)
 
 ---
